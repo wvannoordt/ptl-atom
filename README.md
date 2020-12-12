@@ -1,5 +1,7 @@
 # ptl-atom package
 
-A short description of your package.
+This package is an accompaniment to the [PropTreeLib](https://github.com/wvannoordt/PropTreeLib) library,
+designed for use with the Atom editor.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+(temporary image)
+![Temporary](https://imgur.com/GXPIXTz)
