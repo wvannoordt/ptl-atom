@@ -4,4 +4,4 @@ This package is an accompaniment to the [PropTreeLib](https://github.com/wvannoo
 designed for use with the Atom editor.
 
 (temporary image)
-![Temporary](https://imgur.com/GXPIXTz)
+![Temporary](https://i.imgur.com/GXPIXTz.png)
